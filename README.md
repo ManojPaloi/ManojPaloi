@@ -21,26 +21,46 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```javascript
-const anmol = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "PHP"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
-    technologies: {
-        backEnd: {
-            js: ["Node", "Fastify", "Express"],
-        },
-        mobileApp: {
-            native: ["Android Development"]
-        },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
-    },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "No Focus point at this time",
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
+```Python
+class Manoj:
+    def __init__(self):
+        self.pronouns = ["He", "Him"]
+        self.code = ["Python", "Django", "Javascript", "Flask",]
+        self.ask_me_about = ["web dev", "tech", "app dev", "photography"]
+        self.technologies = {
+            "backEnd": {
+                "Python": ["Django", "python", "Node"]
+            },
+            "mobileApp": {
+                "native": ["Android Development"]
+            },
+            "devOps": ["AWS", "Docker🐳", "google cloud", "Nginx"],
+            "databases": ["Django", "MySql", "sqlite"],
+            "misc": ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        }
+        self.architecture = ["Serverless Architecture", "Progressive web applications", "Single page applications"]
+        self.current_focus = "No Focus point at this time"
+        self.fun_fact = "There are two ways to write error-free programs; only the third one works"
+
+    def display_info(self):
+        info = {
+            "pronouns": self.pronouns,
+            "code": self.code,
+            "askMeAbout": self.ask_me_about,
+            "technologies": self.technologies,
+            "architecture": self.architecture,
+            "currentFocus": self.current_focus,
+            "funFact": self.fun_fact
+        }
+        for key, value in info.items():
+            print(f"{key}: {value}")
+
+
+manoj = Manoj()
+
+
+manoj.display_info()
+
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
@@ -67,56 +87,14 @@ const anmol = {
  > 
 **I'm an Early 🐤** 
 
-```text
-🌞 Morning                759 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
-🌆 Daytime                1781 commits        ██████████░░░░░░░░░░░░░░░   40.37 % 
-🌃 Evening                1293 commits        ███████░░░░░░░░░░░░░░░░░░   29.31 % 
-🌙 Night                  579 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
-```
-📅 **I'm Most Productive on Sunday** 
 
-```text
-Monday                   553 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
-Tuesday                  609 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
-Wednesday                716 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
-Thursday                 586 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-Friday                   464 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
-Saturday                 568 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
-Sunday                   916 commits         █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
-```
+###
 
+<br clear="both">
 
-📊 **This Week I Spent My Time On** 
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-```text
-🕑︎ Time Zone: Asia/Dubai
-
-💬 Programming Languages: 
-Dart                     7 hrs 55 mins       ███████████░░░░░░░░░░░░░░   44.53 % 
-JavaScript               2 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-TypeScript               2 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-YAML                     2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
-HTML                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
-
-🔥 Editors: 
-WebStorm                 9 hrs 32 mins       █████████████░░░░░░░░░░░░   53.55 % 
-Android Studio           8 hrs 15 mins       ████████████░░░░░░░░░░░░░   46.35 % 
-PyCharm                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-
-💻 Operating System: 
-Mac                      17 hrs 48 mins      █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               32 repos            ███████████░░░░░░░░░░░░░░   43.84 % 
-CSS                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-TypeScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
-Dart                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
-Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
-```
-
+###
 
 
 
