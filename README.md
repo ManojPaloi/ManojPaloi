@@ -3,8 +3,8 @@
 
 <div align="center" style="flex: 1;  flex-direction: column; width: 100%">
   <div style="flex: 1; flex-direction: row; width: 100%">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=piedro404&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piedro404&layout=compact&langs_count=7&theme=react"/>
+   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ManojPaloi&show_icons=true&theme=aura&layout=compact" alt="ManojPaloi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ManojPaloi&show_icons=true&theme=algolia&show_icons=true" alt="ManojPaloi" /></p>
   </div>
  
 </div>
