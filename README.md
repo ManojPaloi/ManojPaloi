@@ -1,10 +1,20 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=57BCDA&height=180&section=header&text=ManojPaloi&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7F7F7&vCenter=true&width=435&lines=HELLO%2C+My+name+is+MANOJ+PALOI+%F0%9F%98%8A;I+am+from+Kolkata%2C+India+%F0%9F%93%8C;I'm+23+years+old+%F0%9F%8E%89;I+stady+B.tech+In+CSE+%F0%9F%8E%93;Be+Welcome!+%3A)+%F0%9F%91%8F" alt="Typing SVG" /></a>
+</div>
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 𝒘𝒆𝒍𝒄𝒐𝒎𝒆 ( नमस्ते )🙏🏻,  𝑰'𝒎 𝑴𝑨𝑵𝑶𝑱 𝑷𝑨𝑳𝑶𝑰 ! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <div align="center" style="flex: 1;  flex-direction: column; width: 100%">
   <div style="flex: 1; flex-direction: row; width: 100%">
-   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ManojPaloi&show_icons=true&theme=aura&layout=compact" alt="ManojPaloi" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ManojPaloi&show_icons=true&theme=algolia&show_icons=true" alt="ManojPaloi" /></p>
+   <p><img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ManojPaloi&show_icons=true&theme=aura&layout=compact" alt="ManojPaloi" /></p>
+<p>&nbsp;<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=ManojPaloi&show_icons=true&theme=algolia&show_icons=true" alt="ManojPaloi" /></p>
+  </div>
+  
+ <div style="flex: 1; flex-direction: row; width: 100%">
+    <img height="180em" src="https://streak-stats.demolab.com/?user=ManojPaloi&count_private=false&theme=react"/>
+  
   </div>
  
 </div>
@@ -29,46 +39,14 @@
 
 - 🌱 Setting up practical **projects with friends**
 
+- 📫 How to reach me **paloimanoj@gmai.com**
+  
 - 👯Currently learning Laravel **backend and frontend Development**
 
 - 🤝 Passionate about **technology and new contacts**
 
-- 📫 How to reach me **paloimanoj@gmai.com** 
-
 - ⚡ Fun fact **I love listening to music**
 
-      class Manoj:
-      def __init__(self):
-        self.pronouns = ["He", "Him"]
-        self.code = ["Python", "Django", "JavaScript", "Flask"]
-        self.ask_me_about = ["web dev", "tech", "app dev", "photography"]
-        self.technologies = {
-            "backEnd": ["Django", "Flask", "Node"],
-            "mobileApp": ["Android Development"],
-            "devOps": ["AWS", "Docker🐳", "Google Cloud", "Nginx"],
-            "databases": ["PostgreSQL", "MySQL", "SQLite"],
-            "misc": ["Firebase", "Socket.IO", "Selenium", "OpenCV", "PHP", "SuiteApp"]
-        }
-        self.architecture = ["Serverless Architecture", "Progressive web applications", "Single page applications"]
-        self.current_focus = "No Focus point at this time"
-        self.fun_fact = "There are two ways to write error-free programs; only the third one works"
-
-      def display_info(self):
-        info = (
-            f"Pronouns: {', '.join(self.pronouns)}\n"
-            f"Code: {', '.join(self.code)}\n"
-            f"Ask me about: {', '.join(self.ask_me_about)}\n"
-            f"Technologies: {', '.join(self.technologies['backEnd'] + self.technologies['mobileApp'] + self.technologies['devOps'] + self.technologies['databases'] + 
-         self.technologies['misc'])}\n"
-            f"Architecture: {', '.join(self.architecture)}\n"
-            f"Current Focus: {self.current_focus}\n"
-           f"Fun Fact: {self.fun_fact}"
-        )
-        print(info)
-       manoj = Manoj()
-       manoj.display_info()
-
- 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
@@ -80,13 +58,26 @@
 <hr>,
 
 <div> 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href=""><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+<p align="center">
+  🅒🅞🅝🅝🅔🅒🅣 🅦🅘🅣🅗 🅜🅔
+   </p>
+<p align="center">
+<a href="https://www.buymeacoffee.com/jrohitofficial_" target="_blank"><img alt="" src="https://img.shields.io/badge/Help%20Me-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
+<a href="https://discord.com/users/jrohitofficial_#1528" target="_blank"><img alt="" src="https://img.shields.io/badge/discord-000?style=for-the-badge&logo=discord&logoColor=4e5d94" style="vertical-align:center" /></a>
+<a href="https://jrohit.com.np" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://twitter.com/jrohitofficial_" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://linkedin.com/in/jrohitofficial" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://instagram.com/jrohitofficial_" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a>
+<a href="https://facebook.com/jrohitofficial" target="_blank"><img alt="" src="https://img.shields.io/badge/facebook-000?style=for-the-badge&logo=facebook&logoColor=3b5998" style="vertical-align:center" /></a>
+<a href="https://replit.com/@jrohitofficial" target="_blank"><img alt="" src="https://img.shields.io/badge/replit-000?style=for-the-badge&logo=replit&logoColor=FFA500" style="vertical-align:center" /></a>
+<a href="https://codepen.io/jrohitofficial_" target="_blank"><img alt="" src="https://img.shields.io/badge/codepen-000?style=for-the-badge&logo=codepen&logoColor=FFFFFF" style="vertical-align:center" /></a>
+<a href="https://www.youtube.com/@BisKIRANVLOG" target="_blank"><img alt="" src="https://img.shields.io/badge/YouTube%20-000?style=for-the-badge&logo=youtube&logoColor=red" style="vertical-align:center" /></a>
+<a href="mailto:jrohitofficial@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/gmail%20-000?style=for-the-badge&logo=gmail&logoColor=BB001B" style="vertical-align:center" /></a>
+</p>
 </div>
 
-<br><br>
+<br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Piedro404&bg_color=20232A&color=57BCDA&line=57BCDA&point=0b7e9e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -120,6 +111,41 @@
   style="max-width: 100%;" width="800px">
 <br />
 <br />
+
+<br clear="both">
+<p align="center">🅰🅲🆃🅸🆅🅸🆃🅸🅴🆂</p>
+ <p align="center">
+  <a href="https://jrohit.com.np/" target="_blank">
+    <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/Man%20Bouncing%20Ball%20Medium-Dark%20Skin%20Tone.png?raw=true" alt="Azure" width="40" height="40" />
+  </a>
+
+  <a href="https://jrohit.com.np" target="_blank">
+    <img src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/master/Soccer%20Ball.webp" alt="Azure" width="40" height="40" />
+  </a>
+
+  <a href="https://jrohit.com.np" target="_blank">
+    <img src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/master/Video%20Game.webp" alt="Azure" width="40" height="40" />
+  </a>
+
+  <a href="https://jrohit.com.np" target="_blank">
+    <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/Musical%20Notes.png?raw=true" alt="Azure" width="40" height="40" />
+  </a>
+
+  <a href="https://jrohit.com.np" target="_blank">
+    <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/Man%20Technologist%20Medium-Dark%20Skin%20Tone.png?raw=true" alt="Azure" width="40" height="40" />
+  </a>
+  <a href="https://jrohit.com.np" target="_blank">
+    <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/globe.gif?raw=true" alt="Azure" width="40" height="40" />
+  </a>
+  <a href="https://jrohit.com.np" target="_blank">
+    <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/book.gif?raw=true" alt="Azure" width="40" height="40" />
+  </a>
+  <a href="https://jrohit.com.np" target="_blank">
+    <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/music.gif?raw=true" alt="Azure" width="40" height="40"" />
+  </a>
+  
+ </p>
+
 
   **🐱 My GitHub Data** 
 
