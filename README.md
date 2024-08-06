@@ -9,6 +9,13 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
 ![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
 
+<div align="center" style="flex: 1;  flex-direction: column; width: 100%">
+  <div style="flex: 1; flex-direction: row; width: 100%">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=piedro404&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piedro404&layout=compact&langs_count=7&theme=react"/>
+  </div>
+ 
+</div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=zhenye-na&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
