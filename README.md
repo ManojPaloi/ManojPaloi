@@ -63,7 +63,7 @@
   🅒🅞🅝🅝🅔🅒🅣 🅦🅘🅣🅗 🅜🅔
    </p>
 <p align="center">
-<a href="" target="_blank"><img alt="" src="https://img.shields.io/badge/Help%20Me-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
+<a href="https://statuesque-blini-0d0be9.netlify.app/" target="_blank"><img alt="" src="https://img.shields.io/badge/Help%20Me-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
 <a href="" target="_blank"><img alt="" src="https://img.shields.io/badge/discord-000?style=for-the-badge&logo=discord&logoColor=4e5d94" style="vertical-align:center" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
@@ -112,42 +112,40 @@
 <br />
 <br />
 
-<br clear="both">
 <p align="center">🅰🅲🆃🅸🆅🅸🆃🅸🅴🆂</p>
  <p align="center">
-  <a href="" target="_blank">
+  <a href="https://statuesque-blini-0d0be9.netlify.app/" target="_blank">
     <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/Man%20Bouncing%20Ball%20Medium-Dark%20Skin%20Tone.png?raw=true" alt="Azure" width="40" height="40" />
   </a>
 
-  <a href="" target="_blank">
+  <a href="https://statuesque-blini-0d0be9.netlify.app/" target="_blank">
     <img src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/master/Soccer%20Ball.webp" alt="Azure" width="40" height="40" />
   </a>
 
-  <a href="" target="_blank">
+  <a href="https://statuesque-blini-0d0be9.netlify.app/" target="_blank">
     <img src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/master/Video%20Game.webp" alt="Azure" width="40" height="40" />
   </a>
 
-  <a href="" target="_blank">
+  <a href="https://statuesque-blini-0d0be9.netlify.app/" target="_blank">
     <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/Musical%20Notes.png?raw=true" alt="Azure" width="40" height="40" />
   </a>
 
-  <a href="" target="_blank">
+  <a href="https://statuesque-blini-0d0be9.netlify.app/" target="_blank">
     <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/Man%20Technologist%20Medium-Dark%20Skin%20Tone.png?raw=true" alt="Azure" width="40" height="40" />
   </a>
-  <a href="" target="_blank">
+  <a href="https://statuesque-blini-0d0be9.netlify.app/" target="_blank">
     <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/globe.gif?raw=true" alt="Azure" width="40" height="40" />
   </a>
-  <a href="" target="_blank">
+  <a href="https://statuesque-blini-0d0be9.netlify.app/" target="_blank">
     <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/book.gif?raw=true" alt="Azure" width="40" height="40" />
   </a>
-  <a href="" target="_blank">
+  <a href="https://statuesque-blini-0d0be9.netlify.app/" target="_blank">
     <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/music.gif?raw=true" alt="Azure" width="40" height="40"" />
   </a>
   
  </p>
 
-
-  **🐱 My GitHub Data** 
+ **🐱 My GitHub Data** 
 
 > 📦 185.8 kB Used in GitHub's Storage 
  > 
