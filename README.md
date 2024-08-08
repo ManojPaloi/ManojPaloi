@@ -6,6 +6,10 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 𝒘𝒆𝒍𝒄𝒐𝒎𝒆 ( नमस्ते )🙏🏻,  𝑰'𝒎 𝑴𝑨𝑵𝑶𝑱 𝑷𝑨𝑳𝑶𝑰 ! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=ManojPaloi&label=Profile%20views&color=0e75b6&style=flat" alt="panchammmm" /> 
+</p>
+
 <div align="center" style="flex: 1;  flex-direction: column; width: 100%">
   <div style="flex: 1; flex-direction: row; width: 100%">
    <p><img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ManojPaloi&show_icons=true&theme=aura&layout=compact" alt="ManojPaloi" /></p>
