@@ -3,11 +3,15 @@
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7F7F7&vCenter=true&width=435&lines=HELLO%2C+My+name+is+MANOJ+PALOI+%F0%9F%98%8A;I+am+from+Kolkata%2C+India+%F0%9F%93%8C;I'm+23+years+old+%F0%9F%8E%89;I+stady+B.tech+In+CSE+%F0%9F%8E%93;Be+Welcome!+%3A)+%F0%9F%91%8F" alt="Typing SVG" /></a>
 </div>
+
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+
+
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 𝒘𝒆𝒍𝒄𝒐𝒎𝒆 ( नमस्ते )🙏🏻,  𝑰'𝒎 𝑴𝑨𝑵𝑶𝑱 𝑷𝑨𝑳𝑶𝑰 ! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=ManojPaloi&label=Profile%20views&color=0e75b6&style=flat" alt="panchammmm" /> 
+  <img src="https://komarev.com/ghpvc/?username=ManojPaloi&label=Profile%20views&color=0e75b6&style=flat" alt="ManojPaloi" /> 
 </p>
 
 <div align="center" style="flex: 1;  flex-direction: column; width: 100%">
