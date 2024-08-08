@@ -15,12 +15,12 @@
 
 <h2  align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 𝒘𝒆𝒍𝒄𝒐𝒎𝒆,🙏🏻 𝑰'𝒎 𝑴𝑨𝑵𝑶𝑱 𝑷𝑨𝑳𝑶𝑰
 
-  
-<p align="center"> 
+<div>
+<p align="center" width = 250px> 
  
   <img src="https://komarev.com/ghpvc/?username=ManojPaloi&label=Profile%20views&color=0e75b6&style=flat" alt="ManojPaloi" /> 
 </p>
-
+</div>
 <div align="center" style="flex: 1;  flex-direction: column; width: 100%">
   <div style="flex: 1; flex-direction: row; width: 100%">
    <p><img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ManojPaloi&show_icons=true&theme=aura&layout=compact" alt="ManojPaloi" /></p>
@@ -82,7 +82,7 @@
   🅒🅞🅝🅝🅔🅒🅣 🅦🅘🅣🅗 🅜🅔
    </p>
 <p align="center">
-<a href="https://statuesque-blini-0d0be9.netlify.app/" target="_blank"><img alt="" src="https://img.shields.io/badge/Help%20Me-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
+
 <a href="https://discord.com/channels/1270755047046910002/1270755047881445457" target="_blank"><img alt="" src="https://img.shields.io/badge/discord-000?style=for-the-badge&logo=discord&logoColor=4e5d94" style="vertical-align:center" /></a>
 <a href="https://statuesque-blini-0d0be9.netlify.app/"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://x.com/PaloiManoj" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
