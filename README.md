@@ -74,7 +74,7 @@
   <img align="right" alt="pic" height="150" style="border-radius:50px;"  src="https://i.ibb.co/g71crS1/niko-oneshot.gif">
 </div>
 
-<hr>,
+<hr>
 
 <div> 
 
