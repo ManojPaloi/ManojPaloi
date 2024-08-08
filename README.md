@@ -7,7 +7,7 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 𝒘𝒆𝒍𝒄𝒐𝒎𝒆 ( नमस्ते )🙏🏻,  𝑰'𝒎 𝑴𝑨𝑵𝑶𝑱 𝑷𝑨𝑳𝑶𝑰 ! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="20"/> 𝒘𝒆𝒍𝒄𝒐𝒎𝒆🙏🏻,  𝑰'𝒎 𝑴𝑨𝑵𝑶𝑱 𝑷𝑨𝑳𝑶𝑰 ! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="40"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <p align="center"> 
