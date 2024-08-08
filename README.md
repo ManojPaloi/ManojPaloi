@@ -73,7 +73,7 @@
 
 <div style="display: inline_block">
   <br>
-  <img align="center" alt="Skills" src="https://skillicons.dev/icons?i=python,django,java,c,flask,mysql,html,css,js,bootstrap,tailwindcss,git,github,vscode,vercel,netlify,windows,ubuntu&perline=13">
+  <img align="center" alt="Skills" src="https://skillicons.dev/icons?i=python,django,java,c,flask,mysql,html,css,js,bootstrap,tailwindcss,git,github,vscode,vercel,netlify,windows,ubuntu,linux os,&perline=13">
   <img align="right" alt="pic" height="150" style="border-radius:50px;"  src="https://i.ibb.co/g71crS1/niko-oneshot.gif">
   </br>
 </div>
