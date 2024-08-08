@@ -6,10 +6,14 @@
 
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
+<p align="center">
+  <a href="http://jrohit.com.np" target="_blank">
+        <p align="center">
+    <img alt="Coding" width="200" src="https://media1.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif?cid=ecf05e47czcc532765ws5oumsyflmrr3l84ahc8wpu2orb87&ep=v1_gifs_related&rid=giphy.gif&ct=s">
+    </a>
 
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="20"/> 𝒘𝒆𝒍𝒄𝒐𝒎𝒆🙏🏻,  𝑰'𝒎 𝑴𝑨𝑵𝑶𝑱 𝑷𝑨𝑳𝑶𝑰 ! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="40"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="20"/> 𝒘𝒆𝒍𝒄𝒐𝒎𝒆,🙏🏻 𝑰'𝒎 𝑴𝑨𝑵𝑶𝑱 𝑷𝑨𝑳𝑶𝑰 !<img 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=ManojPaloi&label=Profile%20views&color=0e75b6&style=flat" alt="ManojPaloi" /> 
 </p>
