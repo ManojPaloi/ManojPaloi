@@ -23,8 +23,13 @@
  
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zhenye-na&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
- 
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ManojPaloi" alt="ManojPaloi" />
+  </a> 
+</p>
+
+
 ## <picture><img src = "https://github.com/user-attachments/assets/e8f33d0f-2c38-4279-9572-f00c2b71bb6f" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="[https://drive.google.com/file/d/1cZiKHQYII3sTxQVv2nSuq5S27J5Hz7O8/view?usp=sharing]" width = 250px></picture>
