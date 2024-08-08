@@ -13,7 +13,9 @@
     </a>
 
 
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="20"/> 𝒘𝒆𝒍𝒄𝒐𝒎𝒆,🙏🏻 𝑰'𝒎 𝑴𝑨𝑵𝑶𝑱 𝑷𝑨𝑳𝑶𝑰  <img 
+<h2  align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="20"/> 𝒘𝒆𝒍𝒄𝒐𝒎𝒆,🙏🏻 𝑰'𝒎 𝑴𝑨𝑵𝑶𝑱 𝑷𝑨𝑳𝑶𝑰
+
+  
 <p align="center"> 
  
   <img src="https://komarev.com/ghpvc/?username=ManojPaloi&label=Profile%20views&color=0e75b6&style=flat" alt="ManojPaloi" /> 
