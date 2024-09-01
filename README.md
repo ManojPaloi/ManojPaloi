@@ -185,7 +185,7 @@ graph](https://github-readme-activity-graph.vercel.app/graph?username=ManojPaloi
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 22 Public Repositories 
+> 📜 36 Public Repositories 
  > 
 > 🔑 23 Private Repositories 
  > 
