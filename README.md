@@ -30,7 +30,7 @@
   </div>
   
  <div style="flex: 1; flex-direction: row; width: 100%">
-    <img height="180em" src="https://streak-stats.demolab.com/?user=ManojPaloi&count_private=false&theme=react"/>
+    <img height="180em" src="https://streak-stats.demolab.com/?user=ManojPaloi&count_private=false&theme=highcontrast"/>
   
   </div>
  
