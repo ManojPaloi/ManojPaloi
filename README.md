@@ -102,20 +102,14 @@
 
 </div>
 
-<br>
+
 
 [![Ashutosh's github activity
 graph](https://github-readme-activity-graph.vercel.app/graph?username=ManojPaloi&bg_color=20232A&color=57BCDA&line=57BCDA&point=0b7e9e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-</br>
 
-<div align="center">
-    <picture><img src="https://github.com/user-attachments/assets/209c1290-5039-4723-8ea8-04423f1ddf4c" width=50px>
-    </picture>
-    <img src="https://profile-counter.glitch.me/piedro404/count.svg" alt="Profile Views" />
-    <picture><img src="https://github.com/user-attachments/assets/8a24d79f-a164-4983-a32f-0741863f4af1" width=50px>
-    </picture>
-</div>
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=57BCDA&height=120&section=footer" />
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with
