@@ -38,7 +38,7 @@
 <br>
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ManojPaloi" alt="ManojPaloi" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ManojPaloi&theme=juicyfresh" alt="ManojPaloi" />
   </a> 
 </p>
 
