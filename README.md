@@ -75,8 +75,9 @@
 <br>
   <img align="center" alt="Skills" src="https://skillicons.dev/icons?i=python,django,java,c,flask,mysql,html,css,js,docker,bootstrap,tailwindcss,aws,googlecloud,git,github,vscode,vercel,heroku,netlify,windows,apple,ubuntu,kali,linux os,&perline=13">
   <img align="right" alt="pic" height="170" style="border-radius:50px;"  src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif">
+  </br>
 </div>
-</br>
+
 
 
 <div> 
@@ -102,13 +103,8 @@
 
 </div>
 
-
-
 [![Ashutosh's github activity
 graph](https://github-readme-activity-graph.vercel.app/graph?username=ManojPaloi&bg_color=20232A&color=57BCDA&line=57BCDA&point=0b7e9e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=57BCDA&height=120&section=footer" />
 
