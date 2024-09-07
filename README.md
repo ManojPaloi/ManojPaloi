@@ -28,7 +28,7 @@
    <p><img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ManojPaloi&show_icons=true&theme=algolia&layout=compact" alt="ManojPaloi" /></p>
 <p>&nbsp;<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=ManojPaloi&show_icons=true&theme=algolia&show_icons=true" alt="ManojPaloi" /></p>
   </div>
-  <br>
+<br>
  <div style="flex: 1; flex-direction: row; width: 100%">
     <img height="180em" src="https://streak-stats.demolab.com/?user=ManojPaloi&count_private=false&theme=highcontrast"/>
   
