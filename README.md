@@ -75,7 +75,7 @@
 
   <img align="center" alt="Skills" src="https://skillicons.dev/icons?i=python,django,java,c,flask,mysql,html,css,js,docker,bootstrap,tailwindcss,aws,googlecloud,git,github,vscode,vercel,heroku,netlify,windows,apple,ubuntu,kali,linux os,&perline=13">
  
-  <img align="right" alt="pic" height="200" style="border-radius:100px;"  src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif">
+  <img align="right" alt="pic" height="190" style="border-radius:100px;"  src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif">
 </br> 
 </br>
 </br>
