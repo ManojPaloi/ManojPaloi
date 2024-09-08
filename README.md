@@ -74,9 +74,11 @@
 <div style="display: inline_block">
 
   <img align="center" alt="Skills" src="https://skillicons.dev/icons?i=python,django,java,c,flask,mysql,html,css,js,docker,bootstrap,tailwindcss,aws,googlecloud,git,github,vscode,vercel,heroku,netlify,windows,apple,ubuntu,kali,linux os,&perline=13">
- <br>  
+ 
   <img align="right" alt="pic" height="160" style="border-radius:50px;"  src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif">
- </br>
+</br> 
+</br>
+</br> 
 </div>
 
 
