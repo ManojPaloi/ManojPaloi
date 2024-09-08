@@ -78,7 +78,8 @@
   <img align="right" alt="pic" height="160" style="border-radius:50px;"  src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif">
 </br> 
 </br>
-</br> 
+</br>
+</br>
 </div>
 
 
