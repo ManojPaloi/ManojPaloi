@@ -168,20 +168,3 @@ graph](https://github-readme-activity-graph.vercel.app/graph?username=ManojPaloi
   
  </p>
  </br> 
- 
- **🐱 My GitHub Data** 
-
-> 📦 185.8 kB Used in GitHub's Storage 
- > 
-> 🏆 66 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 36 Public Repositories 
- > 
-> 🔑 23 Private Repositories 
- > 
-**I'm an Early 🐤** 
-###
-Last Updated on 08/08/2024 at 2:06:54 PM
-<!--END_SECTION:waka-->
