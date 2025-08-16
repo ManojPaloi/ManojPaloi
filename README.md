@@ -51,7 +51,7 @@
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 1;">
     <ul style="list-style: none; padding: 0;">
-      <li><strong>Fullstack Web Developer</strong></li>
+      <li><strong>Python Developer</strong></li>
          </ul>
   </div>
 </div>
