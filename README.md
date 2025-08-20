@@ -81,8 +81,7 @@
 </p>
 
 
- 
-  <img align="right" alt="pic" height="230" style="border-radius:100px;"  src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif">
+ <img align="right" alt="coading" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 </br>
  
 &nbsp;
