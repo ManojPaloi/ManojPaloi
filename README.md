@@ -99,11 +99,6 @@
    </p>
 <p align="center">
 
-
-  <a href="https://statuesque-blini-0d0be9.netlify.app/" target="_blank">
-    <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" alt="Portfolio" width="40" style="background:#000000; padding:10px; border-radius:50%; border: 4px solid white; margin: 10px;" />
-  </a>
-
   <!-- X / Twitter -->
   <a href="https://x.com/PaloiManoj" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx--v2.png" alt="Twitter" width="40" style="background:#000000; padding:10px; border-radius:50%; border: 4px solid white; margin: 10px;" />
