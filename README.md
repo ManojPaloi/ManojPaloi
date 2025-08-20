@@ -82,8 +82,10 @@
 
 
  <img align="right" alt="coading" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
-</br>
  
+</br>
+</br>
+
 &nbsp;
 
 &nbsp;
