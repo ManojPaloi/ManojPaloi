@@ -75,8 +75,8 @@
 
 <p align="left">
   <img
-    src="https://skillicons.dev/icons?i=python,django,java,c,flask,mysql,html,css,javascript,docker,bootstrap,tailwind,aws,gcp,git,github,vscode,vercel,heroku,netlify,windows,apple,ubuntu,kali,linux,postman&perline=13"
-    alt="Skills: Python, Django, Java, C, Flask, MySQL, HTML, CSS, JavaScript, Docker, Bootstrap, Tailwind CSS, AWS, Google Cloud, Git, GitHub, VS Code, Vercel, Heroku, Netlify, Windows, Apple, Ubuntu, Kali, Linux, Postman"
+    src="https://skillicons.dev/icons?i=python,django,flask,mysql,html,css,javascript,docker,bootstrap,tailwind,aws,git,github,vscode,vercel,heroku,netlify,windows,apple,ubuntu,kali,linux,postman&perline=13"
+    alt="Skills: Python, Django, Flask, MySQL, HTML, CSS, JavaScript, Docker, Bootstrap, Tailwind CSS, AWS, Git, GitHub, VS Code, Vercel, Heroku, Netlify, Windows, Apple, Ubuntu, Kali, Linux, Postman"
   />
 </p>
 
