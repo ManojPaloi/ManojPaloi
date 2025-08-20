@@ -73,7 +73,14 @@
 
 <div style="display: inline_block">
 
-  <img align="center" alt="Skills" src="https://skillicons.dev/icons?i=python,django,java,c,flask,mysql,html,css,js,docker,bootstrap,tailwindcss,aws,googlecloud,git,github,vscode,vercel,heroku,netlify,windows,apple,ubuntu,kali,linux os,&perline=13">
+<p align="left">
+  <img
+    src="https://skillicons.dev/icons?i=python,django,java,c,flask,mysql,html,css,javascript,docker,bootstrap,tailwind,aws,gcp,git,github,vscode,vercel,heroku,netlify,windows,apple,ubuntu,kali,linux,postman&perline=13"
+    alt="Skills: Python, Django, Java, C, Flask, MySQL, HTML, CSS, JavaScript, Docker, Bootstrap, Tailwind CSS, AWS, Google Cloud, Git, GitHub, VS Code, Vercel, Heroku, Netlify, Windows, Apple, Ubuntu, Kali, Linux, Postman"
+  />
+</p>
+
+
  
   <img align="right" alt="pic" height="190" style="border-radius:100px;"  src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif">
 </br> 
