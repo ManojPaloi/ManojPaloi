@@ -62,7 +62,7 @@
 
 - 📫 How to reach me **paloimanoj@gmai.com**
   
-- 👯Currently learning Laravel **backend and frontend Development**
+- 👯Currently learning REST API and FASTAPI **backend Development**
 
 - 🤝 Passionate about **technology and new contacts**
 
