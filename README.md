@@ -95,18 +95,45 @@
 
 <br>
 <p align="center">
-  🅒🅞🅝🅝🅔🅒🅣 🅦🅘🅣🅗 🅜🅔
+  🌐 Connect With Me
    </p>
 <p align="center">
 
 
-<a href="https://statuesque-blini-0d0be9.netlify.app/"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://x.com/PaloiManoj" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://www.linkedin.com/in/manoj-paloi/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://www.instagram.com/___er.manoj_kumar_official___/" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a>
-<a href="https://www.facebook.com/paloimanoj" target="_blank"><img alt="" src="https://img.shields.io/badge/facebook-000?style=for-the-badge&logo=facebook&logoColor=3b5998" style="vertical-align:center" /></a>
-<a href="https://www.youtube.com/@manojpaloi9807" target="_blank"><img alt="" src="https://img.shields.io/badge/YouTube%20-000?style=for-the-badge&logo=youtube&logoColor=red" style="vertical-align:center" /></a>
-<a href="mailto:paloimanoj@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/gmail%20-000?style=for-the-badge&logo=gmail&logoColor=BB001B" style="vertical-align:center" /></a>
+  <a href="https://statuesque-blini-0d0be9.netlify.app/" target="_blank">
+    <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" alt="Portfolio" width="40" style="background:#000000; padding:10px; border-radius:50%; border: 4px solid white; margin: 10px;" />
+  </a>
+
+  <!-- X / Twitter -->
+  <a href="https://x.com/PaloiManoj" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx--v2.png" alt="Twitter" width="40" style="background:#000000; padding:10px; border-radius:50%; border: 4px solid white; margin: 10px;" />
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/manoj-paloi/" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40" style="background:#0077B5; padding:10px; border-radius:50%; border: 4px solid white; margin: 10px;" />
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/___er.manoj_kumar_official___/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" width="40" style="background:#E1306C; padding:10px; border-radius:50%; border: 4px solid white; margin: 10px;" />
+  </a>
+
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/paloimanoj" target="_blank">
+    <img src="https://img.icons8.com/color/48/facebook.png" alt="Facebook" width="40" style="background:#1877F2; padding:10px; border-radius:50%; border: 4px solid white; margin: 10px;" />
+  </a>
+
+  <!-- YouTube -->
+  <a href="https://www.youtube.com/@manojpaloi9807" target="_blank">
+    <img src="https://img.icons8.com/color/48/youtube-play.png" alt="YouTube" width="40" style="background:#FF0000; padding:10px; border-radius:50%; border: 4px solid white; margin: 10px;" />
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:paloimanoj@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="40" style="background:#D14836; padding:10px; border-radius:50%; border: 4px solid white; margin: 10px;" />
+  </a>
+
 </p>
 </br>
 
