@@ -82,7 +82,16 @@
 
 
  
-  <img align="right" alt="pic" height="190" style="border-radius:100px;"  src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif">
+  <img align="right" alt="pic" height="230" style="border-radius:100px;"  src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif">
+</br>
+ 
+&nbsp;
+
+&nbsp;
+
+
+
+  
 </br> 
 </br>
 </br>
@@ -94,9 +103,9 @@
 <div> 
 
 <br>
-<p align="center">
+<h2 align="center">
   🌐 Connect With Me
-   </p>
+  <h2/>
 <p align="center">
 
   <!-- X / Twitter -->
@@ -130,7 +139,6 @@
   </a>
 
 </p>
-</br>
 
 </div>
 
