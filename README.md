@@ -1,8 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=57BCDA&height=180&section=header&text=ManojPaloi&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7F7F7&vCenter=true&width=435&lines=HELLO%2C+My+name+is+MANOJ+PALOI+%F0%9F%98%8A;I+am+from+Kolkata%2C+India+%F0%9F%93%8C;I'm+24+years+old+%F0%9F%8E%89;I+study+B.tech+In+CSE+%F0%9F%8E%93;Be+Welcome!+%3A)+%F0%9F%91%8F" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=👋+HELLO!+My+name+is+✨+MANOJ+PALOI+🌟;📍+I+am+from+Kolkata,+India;🎉+I'm+24+years+old;🎓+I+study+B.Tech+in+CSE;🤝+Be+Welcome!+%3A)+👏"
+      alt="Typing SVG"
+    />
+  </a>
 </div>
+
 
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
@@ -35,6 +41,9 @@
   </div>
  
 </div>
+
+
+
 <!-- <br>
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -150,6 +159,18 @@
 
 [![Ashutosh's github activity
 graph](https://github-readme-activity-graph.vercel.app/graph?username=ManojPaloi&bg_color=20232A&color=57BCDA&line=57BCDA&point=0b7e9e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<div align="center" style="background-color:#000; padding:15px; border-radius:10px;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Have+a+good+day!+😊;Thanks+for+visiting+🚀" alt="Typing SVG" />
+  </a>
+</div>
+
+
+
+
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=57BCDA&height=120&section=footer" />
 
