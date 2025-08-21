@@ -116,47 +116,47 @@
 
 
 
-<div> 
-
-<br>
-<h2 align="center">
-  🌐 Connect With Me
-  <h2/>
-<p align="center">
-
-  <!-- X / Twitter -->
-  <a href="https://x.com/PaloiManoj" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx--v2.png" alt="Twitter" width="40" style="background:#000000; padding:10px; border-radius:50%; border: 4px solid white; margin: 10px;" />
-  </a>
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/manoj-paloi/" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40" style="background:#0077B5; padding:10px; border-radius:50%; border: 4px solid white; margin: 10px;" />
-  </a>
-
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/___er.manoj_kumar_official___/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" width="40" style="background:#E1306C; padding:10px; border-radius:50%; border: 4px solid white; margin: 10px;" />
-  </a>
-
-  <!-- Facebook -->
-  <a href="https://www.facebook.com/paloimanoj" target="_blank">
-    <img src="https://img.icons8.com/color/48/facebook.png" alt="Facebook" width="40" style="background:#1877F2; padding:10px; border-radius:50%; border: 4px solid white; margin: 10px;" />
-  </a>
-
-  <!-- YouTube -->
-  <a href="https://www.youtube.com/@manojpaloi9807" target="_blank">
-    <img src="https://img.icons8.com/color/48/youtube-play.png" alt="YouTube" width="40" style="background:#FF0000; padding:10px; border-radius:50%; border: 4px solid white; margin: 10px;" />
-  </a>
-
-  <!-- Gmail -->
-  <a href="mailto:paloimanoj@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="40" style="background:#D14836; padding:10px; border-radius:50%; border: 4px solid white; margin: 10px;" />
-  </a>
-
-</p>
-
+<h2 align="center">🌐 Connect With Me 🔃</h2>
+<div align="center">
+    <table style="border-collapse: collapse; border: none;">
+        <tr>
+            <td style="border: none;">
+                <a href="https://www.linkedin.com/in/manoj-paloi/" target="_blank">
+                    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manoj-paloi" height="30" width="40" />
+                </a>
+            </td>
+            <td style="border: none;">
+                <a href="https://www.instagram.com/___er.manoj_kumar_official___/" target="_blank">
+                    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manoj_instagram" height="30" width="40" />
+                </a>
+            </td>
+            <td style="border: none;">
+                <a href="https://x.com/PaloiManoj" target="_blank">
+                    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="PaloiManoj" height="30" width="40" />
+                </a>
+            </td>
+            <td style="border: none;">
+                <a href="https://www.facebook.com/paloimanoj" target="_blank">
+                    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="paloimanoj" height="30" width="40" />
+                </a>
+            </td>
+            <td style="border: none;">
+                <a href="https://www.youtube.com/@manojpaloi9807" target="_blank">
+                    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="manojpaloi" height="30" width="40" />
+                </a>
+            </td>
+            <td style="border: none;">
+                <a href="mailto:paloimanoj@gmail.com" target="_blank">
+                    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="paloimanoj@gmail.com" height="30" width="40" />
+                </a>
+            </td>
+        </tr>
+    </table>
 </div>
+
+</br>
+
+
 
 [![Ashutosh's github activity
 graph](https://github-readme-activity-graph.vercel.app/graph?username=ManojPaloi&bg_color=20232A&color=57BCDA&line=57BCDA&point=0b7e9e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
