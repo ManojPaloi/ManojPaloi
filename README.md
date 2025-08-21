@@ -114,8 +114,8 @@
 </br>
 
 
-
-<h2 align="center">🌐 Connect With Me 🔃</h2>
+&nbsp;
+<h2 align="center">🌐 Connect With Me </h2>
 <div align="center">
     <table style="border-collapse: collapse; border: none;">
         <tr>
