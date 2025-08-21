@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=57BCDA&height=180&section=header&text=ManojPaloi&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-<div align="center">
+<div align="center" style="background-color:#000; padding:15px; border-radius:10px;">
   <a href="https://git.io/typing-svg">
     <img
       src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=👋+HELLO!+My+name+is+✨+MANOJ+PALOI+🌟;📍+I+am+from+Kolkata,+India;🎉+I'm+24+years+old;🐍+I'm+a+Python+Developer;🤝+Be+Welcome!+%3A)+👏"
