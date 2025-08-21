@@ -57,28 +57,22 @@
 <picture> <img align="right" src="[https://drive.google.com/file/d/1cZiKHQYII3sTxQVv2nSuq5S27J5Hz7O8/view?usp=sharing]" width = 250px></picture>
 
 
-
-<div style="display: flex; align-items: center; width: 100%;">
-  <div style="flex: 1;">
-    <ul style="list-style: none; padding: 0;">
-      <li><strong>Python Developer</strong></li>
-         </ul>
-  </div>
-</div>
-
-- 🔭 Student In **B.tech Computer Science Engineering**
-
-- 🌱 Setting up practical **projects with friends**
-
-- 📫 How to reach me **paloimanoj@gmai.com**
+- 🐍💻 **Python Developer** – building cool Python projects
+ 
+- 🎓🏫 Studied at **B.Tech in Computer Science Engineering**
+   
+- 🌱🤝 Collaborating on practical **projects with friends**
+ 
+- 📫✉️ Reach me at **paloimanoj@gmail.com**
+ 
+- 👯‍♂️⚡ Currently learning **REST API** & **FASTAPI** backend development
+ 
+- 🤖💡 Passionate about **technology, AI & making new connections**
   
-- 👯Currently learning REST API and FASTAPI **backend Development**
-
-- 🤝 Passionate about **technology and new contacts**
-
-- ⚡ Fun fact **I love listening to music**
+- 🎵🎧 Fun fact: **I love listening to music**  
 
 
+&nbsp;
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 <div style="display: inline_block">
