@@ -35,12 +35,12 @@
   </div>
  
 </div>
-<br>
+<!-- <br>
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=ManojPaloi&theme=juicyfresh" alt="ManojPaloi" />
   </a> 
-</p>
+</p> -->
 
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> *A little more about me...* 
