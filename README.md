@@ -189,14 +189,14 @@ graph](https://github-readme-activity-graph.vercel.app/graph?username=ManojPaloi
 
                                   
 <br> 
-<p align="center">🅰🅲🆃🅸🆅🅸🆃🅸🅴🆂</p>
+<!-- <p align="center">🅰🅲🆃🅸🆅🅸🆃🅸🅴🆂</p>
 <p align="center">
     <a href="https://statuesque-blini-0d0be9.netlify.app/" target="_blank">
         <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/Man%20Bouncing%20Ball%20Medium-Dark%20Skin%20Tone.png?raw=true"
             alt="Azure" width="40" height="40" />
  </a>
 
-  <a href="https://statuesque-blini-0d0be9.netlify.app/" target="_blank">
+  <!--<a href="https://statuesque-blini-0d0be9.netlify.app/" target="_blank">
         <img src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/master/Soccer%20Ball.webp" alt="Azure"
             width="40" height="40" />
     </a>
@@ -228,5 +228,5 @@ graph](https://github-readme-activity-graph.vercel.app/graph?username=ManojPaloi
             width="40" height="40"" />
   </a>
   
- </p>
- </br> 
+ </p> -->
+ <!--</br> 
