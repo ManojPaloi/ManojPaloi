@@ -32,25 +32,18 @@
 
 <div align="center" style="flex: 1;  flex-direction: column; width: 100%">
   <div style="flex: 1; flex-direction: row; width: 100%">
-   <p><img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ManojPaloi&show_icons=true&theme=algolia&layout=compact" alt="ManojPaloi" /></p>
-<p>&nbsp;<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=ManojPaloi&show_icons=true&theme=algolia&show_icons=true" alt="ManojPaloi" /></p>
+   <p><img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManojPaloi&layout=compact&theme=algolia" alt="Top Languages" </p>
+<p>&nbsp;<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=ManojPaloi&show_icons=true&theme=algolia&layout=compact" alt="GitHub Stats" </p>
   </div>
 <br>
- <div style="flex: 1; flex-direction: row; width: 100%">
-    <img height="180em" src="https://streak-stats.demolab.com/?user=ManojPaloi&count_private=false&theme=highcontrast"/>
-  
-  </div>
+<p align="center">
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ManojPaloi&show_icons=true&theme=algolia&layout=compact" alt="GitHub Stats"/> -->
+  <img height="180em" src="https://github-readme-streak-stats-eight.vercel.app?user=ManojPaloi&count_private=false&theme=highcontrast" alt="GitHub Streak"/>
+</p>
+
  
 </div>
 
-
-
-<!-- <br>
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ManojPaloi&theme=juicyfresh" alt="ManojPaloi" />
-  </a> 
-</p> -->
 
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> *A little more about me...* 
