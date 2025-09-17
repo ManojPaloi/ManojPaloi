@@ -1,5 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=57BCDA&height=180&section=header&text=ManojPaloi&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
+
 <div align="center" style="background-color:#000; padding:15px; border-radius:10px;">
   <a href="https://git.io/typing-svg">
     <img
